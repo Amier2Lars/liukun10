@@ -1,9 +1,5 @@
-git clone https://github.com/Amier2Lars/liukun10/edit/main/test.txt
-cd liukun10
+git rm test.txt
 
-touch test.txt  
-
-git add test.txt
-git commit -m "feat: test.txt"
+git commit -m "chore: test.txt"
 
 git push origin main
