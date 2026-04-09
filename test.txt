@@ -1,1 +1,9 @@
+git clone https://github.com/Amier2Lars/liukun10/edit/main/test.txt
+cd liukun10
 
+touch test.txt  
+
+git add test.txt
+git commit -m "feat: test.txt"
+
+git push origin main
